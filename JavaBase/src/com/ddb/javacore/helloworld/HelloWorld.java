@@ -1,5 +1,9 @@
 package com.ddb.javacore.helloworld;
 
+/**
+ *作者:邬华龙
+ *时间:2017年3月20日
+ */
 public class HelloWorld {
 
 	public static void main(String[] args) {
